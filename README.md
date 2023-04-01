@@ -19,3 +19,5 @@ This extension declares 3 permissions in its manifest.json
 - [X] work observing changes to the DOM that can be caused by changing the state of a PR;
 - [X] show action icon with different colors (green/gray) according to the configuration for the current day;
 - [ ] detect end of current day/begin of new day, set PR button and extension icon accordingly;
+
+Remove this test comment
